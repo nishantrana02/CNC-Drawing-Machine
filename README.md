@@ -32,4 +32,4 @@ This **CNC drawing machine project** was a **great learning experience**, emphas
 
 ---
 
-📌 *Project by Nishant Rana - 2023*  
+📌 *Project by Nishant Rana - 2020*  
